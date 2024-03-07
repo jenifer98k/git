@@ -1,0 +1,18 @@
+git --version
+git config --global user.name "YOUR_USERNAME"
+git config --global user.email "YOUR_EMAIL"
+cd desktop
+cd Git and GitHub tutorial
+git init
+
+
+created only one file called todo.txt
+
+
+
+How to commit files in Git
+git commit -m "first commit"
+git remote add origin https://github.com/ihechikara/git-and-github-tutorial.git
+git branch -M main
+git push -u origin main
+git status
